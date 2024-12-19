@@ -1,24 +1,9 @@
-# Medical Health Management Blockchain Dapp
+# Freelancer-Client Management Blockchain Dapp
 
-Build & Deploy a Medical Health Management Blockchain Dapp | Solidity, Hardhat, Next.js, Context AP and web3 providers
+Build & Deploy a Freelancer-Client Management Blockchain Dapp | Solidity, Hardhat, Next.js, Context API, and Web3 providers
 
-In this comprehensive tutorial, we will guide you through the process of building and deploying a Medical Health Management Dapp on the blockchain. This step-by-step video covers everything from setting up the development environment to deploying the smart contracts and building a user-friendly frontend. Here's what we'll cover:
+In this comprehensive tutorial, we will guide you through the process of building and deploying a Freelancer-Client Management Dapp on the blockchain. 
 
-## Project Overview
-
-![alt text](https://www.daulathussain.com/wp-content/uploads/2024/07/Build-Deploy-a-Medical-Health-Management-Blockchain-Dapp-Solidity-Hardhat-Nextjs-Context-AP-and-web3-providers.jpg)
-
-Kindly follow the following Instructions to run the project in your system and install the necessary requirements
-
-- [Final Source Code](https://www.theblockchaincoders.com/sourceCode/build-and-deploy-blockchain-web3-tools:-next.js-solana-binance-solidity-and-ico-marketplace)
-
-#### Setup Video
-
-- [Final Code Setup video](https://youtu.be/0TwuL8V9zUE?si=UFuWkzh-DofBndjp)
-
-```
-  WATCH: Setup & Demo Of Project
-```
 
 #### Install Vs Code Editor
 
@@ -35,35 +20,11 @@ Kindly follow the following Instructions to run the project in your system and i
   NPM: 8.19.2
 ```
 
-#### ALL SOURCE CODE
-
-```
- URL: https://www.theblockchaincoders.com/SourceCode
-  GET: Project Starter File Download
-```
-
-All you need to follow the complete project and follow the instructions which are explained in the tutorial by Daulat
 
 ## Final Code Instruction
 
 If you download the final source code then you can follow the following instructions to run the Dapp successfully
 
-#### What You Will Get
-
-Once you download the final source code, you will get a ZIP file, then you will have 2 FOLDERS & README file which contain all the instructions to run the project and set video
-
-#### Setup Video
-
-```
-  WATCH: Setup & Demo Of Project
-```
-
-#### ALL SOURCE CODE
-
-```
- URL: https://www.theblockchaincoders.com/SourceCode
-  GET: Project Starter File Download
-```
 
 #### Install Vs Code Editor
 
@@ -138,7 +99,7 @@ We are using RemixID for deploying the contract and generation of the ABI in the
 
 ```
   {
-  "name": "healthcare-blockchain-dapp",
+  "name": "workchain-blockchain-dapp",
   "version": "0.1.0",
   "private": true,
   "scripts": {
